@@ -1,3 +1,10 @@
+![Quantix Bank](https://github.com/user-attachments/assets/361a9e8b-cb3b-4bc7-9486-290dafe54ed8)
+# Quantix Bank
+
+Manage your finances effortlessly with cutting-edge technology and industry-leading security.
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
